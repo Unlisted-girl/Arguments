@@ -1,2 +1,2 @@
-# Arguments
-Functions in arguments
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
